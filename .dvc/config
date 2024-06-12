@@ -1,2 +1,5 @@
 [core]
     autostage = true
+    remote = dvc_train
+['remote "dvc_train"']
+    url = C:/Users/clare/AppData/Local/Temp/dvcstore
